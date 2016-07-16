@@ -1,5 +1,5 @@
 # Converting-dp-to-px
-<b>Code to convert dp(density independent pixel) to px(pixel)<b>
+<b>Code to convert dp(density independent pixel) to px(pixel)</b><br><br>
 
  int dp = 100; <br>
  Resources r = getResources(); <br>
