@@ -1,5 +1,5 @@
-# Converting-dp-to-px
-Code to convert dp(density independent pixel) to px(pixel)
+# Converting-dp-into-px
+Code to convert dp(density independent pixel) into px(pixel)
 
  <h5>int dp = 100;<br> 
  Resources r = getResources(); <br>
