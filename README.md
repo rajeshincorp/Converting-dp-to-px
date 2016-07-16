@@ -1,6 +1,6 @@
 # Converting-dp-to-px
-<b>Code to convert dp(density independent pixel) to px(pixel)</b><br><br>
+<h2>Code to convert dp(density independent pixel) to px(pixel)</h2><br>
 
- int dp = 100; <br>
- Resources r = getResources(); <br>
- float pixel = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 16, r.getDisplayMetrics());
+ <b>int dp = 100;</b> <br>
+ <b>Resources r = getResources();</b> <br>
+ <b>float pixel = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 16, r.getDisplayMetrics());</b>
